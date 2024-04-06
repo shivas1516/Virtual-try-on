@@ -4,7 +4,7 @@
 This project aims to learn, explore, and implement various deep-learning models for virtual try-on applications. It utilizes techniques such as GFLA, PyTorch-CycleGAN-and-pix2pix, PATN, and MUNIT for generating virtual try-on results.
 
 ## Demo
-A runnable demo can be accessed in our Colab environment. [Open In Colab!](https://colab.research.google.com/)
+A runnable demo can be accessed in our Colab environment. [Open In Colab!]([https://colab.research.google.com/](https://colab.research.google.com/drive/1KqSCZyotg2hvvOdXXUqoeRSijWIHO-aw#scrollTo=Taih27BjKSNM))
 
 ## Getting Started with Bash Scripts
 
